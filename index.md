@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Olá, mundo!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
